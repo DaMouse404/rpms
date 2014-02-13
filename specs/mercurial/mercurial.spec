@@ -102,7 +102,7 @@ CFLAGS="%{optflags}" %{__make} %{?_smp_mflags} all
 %{_bindir}/hg-ssh
 
 %changelog
-* Mon Feb 13 2014 Chris Sidebottom <git@damouse.co.uk> - 2.9-1
+* Thu Feb 13 2014 Chris Sidebottom <git@damouse.co.uk> - 2.9-1
 -	new upstream release
 
 * Thu Jun 07 2012 David Hrbáč <david@hrbac.cz> - 2.2.2-1
